@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitetura/Introdução..md",
+                "file": "Arquitetura/Revisão para prova..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução."
+              "title": "Revisão para prova."
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -189,33 +189,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
   "active": "36243161024680f0",
   "lastOpenFiles": [
-    "MateriasPeriodo3/Arquitetura..md",
-    "Arquitetura/Introdução..md",
-    "Arquitetura",
-    "Probabilidade e estatistica/Código modelos e variáveis aleatórias em Python..md",
-    "MateriasPeriodo3/Probabilidade e estatística..md",
-    "Probabilidade e estatistica/Caminhada Aleatória 1D..md",
-    "Probabilidade e estatistica/Lei dos Grandes Números..md",
-    "Untitled.md",
+    "Probabilidade e estatistica/Observações sobre probabilidade de algo dar errado..md",
     "Probabilidade e estatistica/Simulação de Monte Carlo..md",
+    "Probabilidade e estatistica/Caminhada Aleatória 1D..md",
+    "Probabilidade e estatistica/Código modelos e variáveis aleatórias em Python..md",
+    "Probabilidade e estatistica/Lei dos Grandes Números..md",
     "Probabilidade e estatistica/Problema do Despenhadeiro..md",
+    "Arquitetura/Revisão para prova..md",
+    "Banco de Dados/Modelagem de dados..md",
+    "MateriasPeriodo3/Arquitetura..md",
+    "Arquitetura",
+    "MateriasPeriodo3/Probabilidade e estatística..md",
+    "Untitled.md",
     "Probabilidade e estatistica/Problema do Aniversário..md",
     "MateriasPeriodo3/Estrutura de dados..md",
     "MateriasPeriodo3/Banco de dados..md",
     "Estrutura de dados/Ponteiros..md",
     "Estrutura de dados",
-    "Banco de Dados/Modelagem de dados..md",
     "Banco de Dados/Introdução..md",
     "Banco de Dados",
     "Probabilidade e estatistica",

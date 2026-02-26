@@ -25,3 +25,19 @@ Implícita: baseadas na aplicação ou restrições semânticas (Exemplo: um atr
 ### 📒 Como as restrições garantem a confiabilidade do banco de dados?
 
 [Como as restrições garantem a confiabilidade do banco de dados](https://pucdegoias-my.sharepoint.com/:w:/g/personal/20251002803166_pucgo_edu_br/IQB11Sj8nXzqR7OPhJzNwBe4AcKG77cBKrqTGaKkb_O62QY?e=Mld7Vo)
+
+
+# Modelo Entidade - Relacionamento:
+
+É uma representação gráfica dos dados e tudo que tem relação. Baseando-se em entidades, atributos e relacionamentos, assim, ajuda muito na estruturação do banco de dados e também facilita o design do banco de dados.
+
+
+### Entidade: representa um objeto da vida real, por exemplo, um médico, um paciente... (No desenho é representado por um retângulo)
+
+* Entidades fortes: possuem uma chave própria.
+* Entidades fracas: precisam de outras entidades para existir.
+  
+### Atributo: são características de uma entidade. (No desenho é representado por uma elipse).
+
+
+### Relacionamento: é uma associação entre as entidades. (Representado por um losango).

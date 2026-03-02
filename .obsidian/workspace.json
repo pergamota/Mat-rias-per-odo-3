@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitetura/Revisão para prova..md",
+                "file": "Redes/Resumo das aulas passadas..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão para prova."
+              "title": "Resumo das aulas passadas."
             }
           }
         ],
@@ -200,22 +200,25 @@
   },
   "active": "36243161024680f0",
   "lastOpenFiles": [
-    "Probabilidade e estatistica/Observações sobre probabilidade de algo dar errado..md",
-    "Probabilidade e estatistica/Simulação de Monte Carlo..md",
-    "Probabilidade e estatistica/Caminhada Aleatória 1D..md",
+    "Estrutura de dados/Ponteiros..md",
+    "Redes/Resumo das aulas passadas..md",
+    "Redes",
+    "Estrutura de dados/FILA EM C..md",
     "Probabilidade e estatistica/Código modelos e variáveis aleatórias em Python..md",
-    "Probabilidade e estatistica/Lei dos Grandes Números..md",
-    "Probabilidade e estatistica/Problema do Despenhadeiro..md",
     "Arquitetura/Revisão para prova..md",
+    "Probabilidade e estatistica/Caminhada Aleatória 1D..md",
+    "Probabilidade e estatistica/Problema do Aniversário..md",
+    "Probabilidade e estatistica/Problema do Despenhadeiro..md",
+    "Probabilidade e estatistica/Simulação de Monte Carlo..md",
+    "Probabilidade e estatistica/Lei dos Grandes Números..md",
+    "Probabilidade e estatistica/Observações sobre probabilidade de algo dar errado..md",
     "Banco de Dados/Modelagem de dados..md",
     "MateriasPeriodo3/Arquitetura..md",
     "Arquitetura",
     "MateriasPeriodo3/Probabilidade e estatística..md",
     "Untitled.md",
-    "Probabilidade e estatistica/Problema do Aniversário..md",
     "MateriasPeriodo3/Estrutura de dados..md",
     "MateriasPeriodo3/Banco de dados..md",
-    "Estrutura de dados/Ponteiros..md",
     "Estrutura de dados",
     "Banco de Dados/Introdução..md",
     "Banco de Dados",

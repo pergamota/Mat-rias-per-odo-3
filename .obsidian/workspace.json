@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidade e estatistica/Challenger (1986)..md",
+                "file": "Redes/Comunicação de dados e quiz 02..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenger (1986)."
+              "title": "Comunicação de dados e quiz 02."
             }
           }
         ],
@@ -198,11 +198,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "36243161024680f0",
+  "active": "52fadb61bc2cfd57",
   "lastOpenFiles": [
-    "Probabilidade e estatistica/Exercícios da Página 105..md",
-    "Probabilidade e estatistica/Challenger (1986)..md",
+    "Redes/Modelo OSI e TCP-IP e quiz 03..md",
     "Redes/Resumo das aulas passadas..md",
+    "Redes/Telecomunicações e quiz 01..md",
+    "Redes/Comunicação de dados e quiz 02..md",
+    "Probabilidade e estatistica/Challenger (1986)..md",
+    "Probabilidade e estatistica/Exercícios da Página 105..md",
     "Estrutura de dados/Ponteiros..md",
     "Redes",
     "Estrutura de dados/FILA EM C..md",

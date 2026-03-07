@@ -1,4 +1,4 @@
-
+	
 ### Por conta de um anel de vedação de um foguete, houve uma explosão com 7 vítimas. Por conta do anel ser sensível a baixas temperaturas, ele falhou no dia porque fazia 2 graus. 
 
 Esse caso é muito estudado porque:

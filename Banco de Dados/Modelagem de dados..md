@@ -22,7 +22,7 @@ Explícita: podem ser expressas diretamente nos esquemas do modelo de dados (des
 Implícita: baseadas na aplicação ou restrições semânticas (Exemplo: um atributo `gênero` em uma tabela de pessoas deve aceitar apenas valores como "masculino" ou "feminino", o que é uma restrição semântica) ou regras de negócio.
 
 
-### 📒 Como as restrições garantem a confiabilidade do banco de dados?
+### Como as restrições garantem a confiabilidade do banco de dados?
 
 [Como as restrições garantem a confiabilidade do banco de dados](https://pucdegoias-my.sharepoint.com/:w:/g/personal/20251002803166_pucgo_edu_br/IQB11Sj8nXzqR7OPhJzNwBe4AcKG77cBKrqTGaKkb_O62QY?e=Mld7Vo)
 
@@ -41,3 +41,28 @@ Implícita: baseadas na aplicação ou restrições semânticas (Exemplo: um atr
 
 
 ### Relacionamento: é uma associação entre as entidades. (Representado por um losango).
+
+
+
+# TAREFA 5:
+
+### Identifique entidades, atributos, relacionamentos para um sistema acadêmico:
+
+Entidades: Faculdade e Aluno.
+
+Atributos: código do curso, nome do curso, data, número, matrícula, nome, endereço, rua, número, bairro.
+
+Relacionamento: matrícula.
+
+### FOTO DO DESENHO
+
+
+# Tarefa 6:
+
+### Identifique uma entidade em um sistema real que possa ser generalizada ou especializada:
+
+Sistema --> entidade genérica: carros. Entidade específica: city e civic.
+
+
+### FOTO DO DESENHO
+

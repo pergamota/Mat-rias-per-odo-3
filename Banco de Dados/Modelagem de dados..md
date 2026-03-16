@@ -66,3 +66,118 @@ Sistema --> entidade genérica: carros. Entidade específica: city e civic.
 
 ### FOTO DO DESENHO
 
+
+
+# Tarefa 7:
+
+### FOTO DO DESENHO
+
+
+Modelo lógico:
+
+
+```
+Estante (
+	id_estante(PK)
+	nome
+)
+```
+
+```
+Autor (
+	id_autor(PK)
+	nome
+)
+```
+
+```
+Livro (
+	codigo (PK)  
+	titulo  
+	ano  
+	id_estante (FK)  
+	id_editora (FK)
+)
+```
+
+```
+Livro_autor (
+	codigo_livro (FK)  
+	id_autor (FK)    
+	PK (codigo_livro, id_autor)
+)
+```
+
+```
+Emprestimo (
+	id_aluno (FK)  
+	codigo_livro (FK)  
+	data_emprestimo  
+	data_devolucao  
+	PK (id_aluno, codigo_livro, data_emprestimo)
+)
+```
+
+
+# Tarefa 8:
+
+**Problema:**  
+A coluna Produtos contém dois valores em uma única célula, violando a Primeira Forma Normal.
+
+**Solução:**  
+Dividir a tabela em duas tabelas relacionadas:
+
+- Pedido
+    
+- Produto_Pedido
+    
+
+### COLOQUE A FOTO AQUI
+
+
+**Vantagens:**
+
+- elimina valores múltiplos em uma célula
+    
+- melhora organização do banco
+    
+- reduz redundância de dados
+
+
+# Tarefa 9:
+
+### Questão 1:
+
+A chave primária é composta por CodServico e CodPeca, porque um serviço pode usar várias peças e uma mesma peça pode estar em diferentes serviços.
+
+### Questão 2:
+
+* Dependência 1: CodServico -> NomeServico (porque um código de serviço sempre tem um nome)
+
+* Dependência 2: CodServico → DataServico (porque cada serviço tem uma data)
+
+* Dependência 3: CodPeca → NomePeca (porque cada peça tem um nome)
+  
+* Dependência 4: CodPeca → PrecoUnitario (porque cada peça tem um preço)
+
+* Dependência 5: CodServico + CodPeca → Quantidade (porque a quantidade depende do serviço e da peça usada nele)
+  
+  
+### Questão 3: 
+
+|Dependência|Tipo|
+|---|---|
+|CodServico → NomeServico|Parcial|
+|CodServico → DataServico|Parcial|
+|CodPeca → NomePeca|Parcial|
+|CodPeca → PrecoUnitario|Parcial|
+|CodServico + CodPeca → Quantidade|Total|
+
+### Questão 4:
+
+Não está em 2FN porque existem dependências parciais.
+
+
+### Questão 5:
+
+### COLOQUE A FOTO AQUI!

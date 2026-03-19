@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidade e estatistica/Revisão prova N1..md",
+                "file": "Redes/Questões de prova para revisão..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão prova N1."
+              "title": "Questões de prova para revisão."
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidade e estatistica/PROBLEMA DO ANIVERSÁRIO..md",
+                "file": "Redes/Questões de prova para revisão..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROBLEMA DO ANIVERSÁRIO."
+              "title": "Links inversos para Questões de prova para revisão."
             }
           },
           {
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,8 +200,16 @@
   },
   "active": "36243161024680f0",
   "lastOpenFiles": [
-    "Probabilidade e estatistica/Problema do Aniversário..md",
+    "Redes/Modelo OSI e TCP-IP e quiz 03..md",
+    "Redes/Dados e Sinais Analógicos e Digitais..md",
+    "Redes/Questões de prova para revisão..md",
+    "Redes/Comunicação de dados e quiz 02..md",
+    "Redes/Telecomunicações e quiz 01..md",
+    "Redes/Resumo das aulas passadas..md",
+    "Pasted image 20260318114519.png",
+    "Pasted image 20260318114515.png",
     "Probabilidade e estatistica/Revisão prova N1..md",
+    "Probabilidade e estatistica/Problema do Aniversário..md",
     "Probabilidade e estatistica/Problema do Despenhadeiro..md",
     "Probabilidade e estatistica/Simulação de Monte Carlo..md",
     "Probabilidade e estatistica/Caminhada Aleatória 1D..md",
@@ -213,11 +221,6 @@
     "Banco de Dados/Modelagem de dados..md",
     "Pasted image 20260314102923.png",
     "{EE9CD1BC-DCA0-434C-B502-4B0B58187589}.png",
-    "Redes/Dados e Sinais Analógicos e Digitais..md",
-    "Redes/Modelo OSI e TCP-IP e quiz 03..md",
-    "Redes/Resumo das aulas passadas..md",
-    "Redes/Telecomunicações e quiz 01..md",
-    "Redes/Comunicação de dados e quiz 02..md",
     "Estrutura de dados/Ponteiros..md",
     "Redes",
     "Estrutura de dados/FILA EM C..md",
@@ -228,9 +231,7 @@
     "MateriasPeriodo3/Probabilidade e estatística..md",
     "Untitled.md",
     "MateriasPeriodo3/Estrutura de dados..md",
-    "MateriasPeriodo3/Banco de dados..md",
     "Estrutura de dados",
-    "Banco de Dados/Introdução..md",
     "Banco de Dados",
     "Probabilidade e estatistica"
   ]

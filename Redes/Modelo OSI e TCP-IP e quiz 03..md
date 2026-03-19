@@ -185,6 +185,24 @@ Fornece serviços como:
 
 ---
 
+# Resumo das camadas:
+
+### FÍSICA: é o fio da tomada (ela transporta bits (0 e 1) como sinais elétricos ou ondas).
+
+### ENLACE: garante que os dados vão de um dispositivo ao outro dentro da mesma rede.
+
+### REDE: é o waze. Define o caminho que os dados vão seguir. Podendo entregar dados entre redes diferentes.
+
+### Transporte: garante que os dados chegarão completos em um dispositivo (podendo mandar de novo, se precisar). 
+
+### Sessão: Cria, mantém e encerra conexões (Login em sites).
+
+### Apresentação: traduz e formata os dados.
+
+### Aplicação: camada que faz a conexão entre o programa e a rede.
+
+
+---
 # Modelo TCP/IP
 
 O modelo **TCP/IP possui 4 camadas**.

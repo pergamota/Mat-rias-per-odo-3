@@ -165,13 +165,13 @@ A chave primária é composta por CodServico e CodPeca, porque um serviço pode 
   
 ### Questão 3: 
 
-|Dependência|Tipo|
-|---|---|
-|CodServico → NomeServico|Parcial|
-|CodServico → DataServico|Parcial|
-|CodPeca → NomePeca|Parcial|
-|CodPeca → PrecoUnitario|Parcial|
-|CodServico + CodPeca → Quantidade|Total|
+| Dependência                       | Tipo    |
+| --------------------------------- | ------- |
+| CodServico → NomeServico          | Parcial |
+| CodServico → DataServico          | Parcial |
+| CodPeca → NomePeca                | Parcial |
+| CodPeca → PrecoUnitario           | Parcial |
+| CodServico + CodPeca → Quantidade | Total   |
 
 ### Questão 4:
 
@@ -181,3 +181,30 @@ Não está em 2FN porque existem dependências parciais.
 ### Questão 5:
 
 ### COLOQUE A FOTO AQUI!
+
+
+
+# Tarefa 10:
+
+### FOTO AQUI!!
+
+#### 🔹 2FN
+
+- A chave primária é composta (**id_compra + id_acao**)
+
+- Removi dependências parciais:
+    
+    - Dados do cliente → vão para **Cliente**
+        
+    - Dados da empresa → vão para **Empresa**
+        
+    - Dados da compra → vão para **Compra**
+        
+
+#### 🔹 3FN
+
+- Removi dependências transitivas:
+    
+    - Empresa depende de **sigla_acao**, não da chave inteira
+        
+- Separação final correta das tabelas 

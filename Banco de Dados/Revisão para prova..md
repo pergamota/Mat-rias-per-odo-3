@@ -605,3 +605,11 @@ DISCIPLINA (Cod_Disciplina PK, Nome_Disciplina, Cod_Curso FK)
 	
 MATRÍCULA (CPF_Aluno FK, Cod_Disciplina FK, Nota) → PK composta
 	
+
+# Chave estrangeira:
+
+ * É um campo da tabela que faz conexão com a PK de outra tabela, servindo para garantir a integridade, relação entre duas tabelas e evita dados sem nexo.
+   
+# O que é identificação parcial?
+
+ * A entidade não tem existência própria, ela depende de outra entidade para ser identificada.
